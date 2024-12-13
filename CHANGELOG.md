@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-13)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`5cb36ef`](https://github.com/stdlib-js/stdlib/commit/5cb36ef4c6f8158585ac88867a8dec21ed3fa372) - **docs:** update related packages sections [(#3890)](https://github.com/stdlib-js/stdlib/pull/3890) _(by stdlib-bot)_
 -   [`4458c49`](https://github.com/stdlib-js/stdlib/commit/4458c49e9901bdd83048c773b8cacc6361b8729b) - **fix:** extract the scalar constant as a float in `blas/ext/base/dsapxsum` [(#3254)](https://github.com/stdlib-js/stdlib/pull/3254) _(by Muhammad Haris)_
 -   [`6ae3c11`](https://github.com/stdlib-js/stdlib/commit/6ae3c11e5494f6e5750638535b46454e3e325b6e) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dsapxsum` [(#3225)](https://github.com/stdlib-js/stdlib/pull/3225) _(by Muhammad Haris)_
 -   [`e4de24f`](https://github.com/stdlib-js/stdlib/commit/e4de24f1e086063876214e73f1f6b659dc624eb1) - **fix:** resolve bugs in addon.c files _(by Philipp Burckhardt)_
