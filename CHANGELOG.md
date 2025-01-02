@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-01-02)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`090e47b`](https://github.com/stdlib-js/stdlib/commit/090e47b8d61456a35d74abcb39467e107d34ebe5) - **style:** remove decimals _(by Athan Reines)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`5cb36ef`](https://github.com/stdlib-js/stdlib/commit/5cb36ef4c6f8158585ac88867a8dec21ed3fa372) - **docs:** update related packages sections [(#3890)](https://github.com/stdlib-js/stdlib/pull/3890) _(by stdlib-bot)_
 -   [`4458c49`](https://github.com/stdlib-js/stdlib/commit/4458c49e9901bdd83048c773b8cacc6361b8729b) - **fix:** extract the scalar constant as a float in `blas/ext/base/dsapxsum` [(#3254)](https://github.com/stdlib-js/stdlib/pull/3254) _(by Muhammad Haris)_
