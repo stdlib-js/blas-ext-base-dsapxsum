@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`8e907f0`](https://github.com/stdlib-js/stdlib/commit/8e907f03fee0f39eb4eff0e078dec5a13cce0073) - **test:** account for N * alpha in test case _(by Philipp Burckhardt)_
 -   [`d64fbb8`](https://github.com/stdlib-js/stdlib/commit/d64fbb8c4e6c4d9b15ae11a153844903bef76115) - **test:** account for N * alpha in test case _(by Philipp Burckhardt)_
 -   [`9452043`](https://github.com/stdlib-js/stdlib/commit/945204344168a2cc6c9d2aa29b483c35fbe933a1) - **test:** account for N * alpha in test case _(by Philipp Burckhardt)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
