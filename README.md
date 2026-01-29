@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dsapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsapxsum@esm/index.mjs';
+import dsapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsapxsum@v0.3.0-esm/index.mjs';
 ```
 
 #### dsapxsum( N, alpha, x, strideX )
@@ -152,7 +152,7 @@ var v = dsapxsum.ndarray( 4, 5.0, x, 2, 1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import dsapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsapxsum@esm/index.mjs';
+import dsapxsum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsapxsum@v0.3.0-esm/index.mjs';
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float32'
