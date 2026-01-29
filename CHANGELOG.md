@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-06-30)
+## 0.3.0 (2026-01-29)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`8e907f0`](https://github.com/stdlib-js/stdlib/commit/8e907f03fee0f39eb4eff0e078dec5a13cce0073) - **test:** account for N * alpha in test case _(by Philipp Burckhardt)_
 -   [`d64fbb8`](https://github.com/stdlib-js/stdlib/commit/d64fbb8c4e6c4d9b15ae11a153844903bef76115) - **test:** account for N * alpha in test case _(by Philipp Burckhardt)_
 -   [`9452043`](https://github.com/stdlib-js/stdlib/commit/945204344168a2cc6c9d2aa29b483c35fbe933a1) - **test:** account for N * alpha in test case _(by Philipp Burckhardt)_
