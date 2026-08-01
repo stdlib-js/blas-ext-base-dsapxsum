@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-13)
+## Unreleased (2026-08-01)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`22fe7a6`](https://github.com/stdlib-js/stdlib/commit/22fe7a64a77d8fecc54da41dac870f2249b0c731) - **bench:** update benchmarks to use decimal literals [(#13849)](https://github.com/stdlib-js/stdlib/pull/13849) _(by Karan Anand)_
 -   [`97d43ad`](https://github.com/stdlib-js/stdlib/commit/97d43ad9b6a396299f0df31eedab868a234c9ed1) - **bench:** refactor to use string interpolation in `blas/ext/base` [(#11374)](https://github.com/stdlib-js/stdlib/pull/11374) _(by Karan Anand)_
 -   [`62b850e`](https://github.com/stdlib-js/stdlib/commit/62b850e08b029b996b68830398f957c50bf3bf17) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dsapxsum` [(#10744)](https://github.com/stdlib-js/stdlib/pull/10744) _(by Prajjwal Bajpai)_
 
